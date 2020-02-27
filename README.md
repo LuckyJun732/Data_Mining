@@ -1,1 +1,1 @@
-# data-mining
+Berisi Tugas Pertama dari data mining.
